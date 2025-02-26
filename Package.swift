@@ -16,7 +16,7 @@ let package = Package(
     dependencies: [
         .package(url: "https://github.com/ReactiveX/RxSwift.git", from: "5.1.0"),
         .package(url: "https://github.com/RxSwiftCommunity/RxAlamofire.git", from: "5.6.0"),
-        .package(url: "https://github.com/tristanhimmelman/ObjectMapper.git", from: "4.2.0"),
+        .package(url: "https://github.com/tristanhimmelman/ObjectMapper.git", from: "4.4.3"),
     ],
     targets: [
         .target(
